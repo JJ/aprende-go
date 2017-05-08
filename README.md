@@ -19,9 +19,13 @@ empezar a crear aplicaciones sobre la marcha.
 11. Algunas bibliotecas interesantes
 11. Editando programas como un profesional
 11. Creando programas en Go
-12. Compilando programas en go
+12. Compilando programas en Go
+13. Cuando el ordenador no te entiende
+14. Cuenta lo que pretendes.
 13. La nube y todo lo que necesitas sber sobre ella
 14. Despliega y ejecuta programas en Go
+15. Concurrencia
+16. Cuando más rápido es más lento
 
 
 

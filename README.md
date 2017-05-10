@@ -26,6 +26,9 @@ empezar a crear aplicaciones sobre la marcha.
 14. Despliega y ejecuta programas en Go
 15. Concurrencia
 16. Cuando más rápido es más lento
+17. Promesas, promesas
+18. Contenedores
+19. Microservicios 
 
 
 

@@ -29,6 +29,7 @@ empezar a crear aplicaciones sobre la marcha.
 17. Promesas, promesas
 18. Contenedores
 19. Microservicios 
-
+20. Trabajando en las nubes.
+21. ¿Cuanto de rápido es más rápido?
 
 

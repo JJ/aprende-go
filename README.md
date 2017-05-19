@@ -26,6 +26,8 @@ empezar a crear aplicaciones sobre la marcha.
 14. Despliega y ejecuta programas en Go
 15. Concurrencia
 16. Cuando más rápido es más lento
+17. El infinito mundo de los datos
+18. Cómo almacenar y recuperar datos.
 
 
 

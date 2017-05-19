@@ -28,6 +28,11 @@ empezar a crear aplicaciones sobre la marcha.
 16. Cuando más rápido es más lento
 17. El infinito mundo de los datos
 18. Cómo almacenar y recuperar datos.
+17. Promesas, promesas
+18. Contenedores
+19. Microservicios 
+20. Trabajando en las nubes.
+21. ¿Cuanto de rápido es más rápido?
 
 
 

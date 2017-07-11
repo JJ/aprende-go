@@ -9,7 +9,7 @@ empezar a crear aplicaciones sobre la marcha.
 ## Índice tentativo
 
 1. [Por qué Go](txt/01.por-que-go.md)
-2. Instala Go y comienza a trabajar
+2. [Instala Go y comienza a trabajar](txt/02.instala-go-y-comienza-a-trabajar.md)
 3. Expresiones
 4. Documentación con Markdown
 5. Lógica 

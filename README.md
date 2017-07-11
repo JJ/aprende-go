@@ -1,12 +1,14 @@
 # aprende-go
 
+[![Build Status](https://travis-ci.org/JJ/aprende-go.svg?branch=master)](https://travis-ci.org/JJ/aprende-go)
+
 Un libro para aprender Go de forma moderna, como parte de un
 ecosistema y con todas los lenguajes adicionales necesarios para
 empezar a crear aplicaciones sobre la marcha. 
 
 ## Índice tentativo
 
-1. Por qué Go
+1. [Por qué Go](txt/01.por-que-go.md)
 2. Instala Go y comienza a trabajar
 3. Expresiones
 4. Documentación con Markdown

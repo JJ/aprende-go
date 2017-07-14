@@ -4,15 +4,15 @@
 
 Un libro para aprender Go de forma moderna, como parte de un
 ecosistema y con todas los lenguajes adicionales necesarios para
-empezar a crear aplicaciones sobre la marcha. 
+empezar a crear aplicaciones sobre la marcha.
 
 ## Índice tentativo
 
 1. [Por qué Go](txt/01.por-que-go.md)
 2. [Instala Go y comienza a trabajar](txt/02.instala-go-y-comienza-a-trabajar.md)
 3. Expresiones
-4. Documentación con Markdown
-5. Lógica 
+4. [Documentación con Markdown](txt/03.documentacion-con-markdown.md)
+5. Lógica
 6. HTML
 7. Guardando en la memoria
 8. Línea de órdenes y todo lo que necesitas saber sobre ella
@@ -32,9 +32,6 @@ empezar a crear aplicaciones sobre la marcha.
 18. Cómo almacenar y recuperar datos.
 17. Promesas, promesas
 18. Contenedores
-19. Microservicios 
+19. Microservicios
 20. Trabajando en las nubes.
 21. ¿Cuanto de rápido es más rápido?
-
-
-

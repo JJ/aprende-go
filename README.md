@@ -11,7 +11,7 @@ empezar a crear aplicaciones sobre la marcha.
 1. [Por qué Go](txt/01.por-que-go.md)
 2. [Instala Go y comienza a trabajar](txt/02.instala-go-y-comienza-a-trabajar.md)
 3. Expresiones
-4. [Documentación con Markdown](txt/03.documentacion-con-markdown.md)
+4. [Documentación con Markdown](txt/04.documentacion-con-markdown.md)
 5. Lógica
 6. HTML
 7. Guardando en la memoria

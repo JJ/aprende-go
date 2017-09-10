@@ -5,11 +5,13 @@ Alpine
 AltGr
 Altérala
 Amazon
+append
 Atom
 Atom
 Azure
 B
 b
+bytex
 Boole
 Bourbon
 C
@@ -20,6 +22,7 @@ CamelCase
 Clojure
 Cloud
 Code
+code
 Colella
 computacionalmente
 cmplx
@@ -34,6 +37,8 @@ Duck
 DuckDuckGo
 Engine
 Enterprise
+entenderás
+entrecomillarlas
 Environments
 Eval
 Facebook
@@ -62,6 +67,9 @@ i
 IDE
 IDEs
 int
+intmust
+integers
+intstrint
 Install
 Instálatela
 Instálatelos
@@ -132,6 +140,7 @@ Scala
 Server
 StackOverflow
 StackOverflow
+stdin
 Store
 Studio
 The
@@ -139,6 +148,8 @@ Thompson
 Tipado
 Twitter
 UIMP
+uint
+uintptr
 Ubuntu
 Unicode
 Unix
@@ -155,12 +166,14 @@ apk
 apt
 array
 arrays
+arraymakeappend
 aunt
 autocompleta
 bash
 benchmark
 benchmarking
 bin
+binarioTypeError
 bitwise
 bpython
 brew
@@ -201,6 +214,7 @@ end
 equivalences
 escalables
 flipping
+float
 formateador
 George
 get
@@ -235,8 +249,10 @@ j
 k
 k
 lexicográfico
+lenbytebyte
 likearé
 links
+line
 list
 ls
 macramé
@@ -250,6 +266,7 @@ minimalista
 motemen
 multilínea
 multiparadigma
+must
 my
 n
 namespaces
@@ -295,6 +312,7 @@ repl
 resaltadores
 reuso
 ricky
+rune
 s
 satisfacible
 script
@@ -304,9 +322,14 @@ setup
 shell
 shells
 sintácticamente
+slicemapsslicesmapsstructsslicesmapsslices
+slicemapsslicesmapsstructsslicesmapsslicesTypeError
+slice
+sliceappend
 situ
 stack
 strings
+str
 subreddits
 super
 tablet
@@ -316,6 +339,7 @@ thislanguage
 thisotherlanguage
 tipado
 tipificación
+t
 tools
 tupla
 tuplas
@@ -327,10 +351,13 @@ v
 var
 version
 virtualenv
+wiki
+wikipedia
 whatever
 workspace
 x
 xor
+ycadena
 zen
 zsh
 ß

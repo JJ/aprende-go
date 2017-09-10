@@ -10,11 +10,11 @@ empezar a crear aplicaciones sobre la marcha.
 
 1. [Por qué Go](txt/01.por-que-go.md)
 2. [Instala Go y comienza a trabajar](txt/02.instala-go-y-comienza-a-trabajar.md)
-3. Expresiones
+3. [Tipos de datos básicos y cómo trabajar con ellos](txt/03.datos.md)
 4. [Documentación con Markdown](txt/04.documentacion-con-markdown.md)
-5. Lógica
+5. [Lógica](txt/05.logica.md)
 6. HTML
-7. Guardando en la memoria
+7. [Guardando en la memoria](txt/07.guardando-en-la-memoria.md)
 8. Línea de órdenes y todo lo que necesitas saber sobre ella
 9. Lo que el lenguaje no sabe:  bibliotecas
 11. Trabajo en equipo con git y otras herramientas

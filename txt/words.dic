@@ -46,6 +46,7 @@ Farey
 Fibonacci
 Firefox
 Firefox
+funcionabilidad
 Gambler
 Gimp
 GitHub
@@ -56,10 +57,12 @@ Golang
 Google
 Google
 Google
+GOPATH
 Griesemer
 Groovy
 HTML
 HTML
+HTTP
 Haskell
 Hat
 Hinojosa
@@ -207,8 +210,7 @@ docker
 duck
 eando
 ejecutable
-emojis
-emojis
+ejecutables
 emojis
 end
 equivalences
@@ -285,6 +287,7 @@ or
 org
 p
 pages
+pkg
 plugins
 políglota
 poquitín
@@ -292,6 +295,7 @@ point
 postincremento
 precederlas
 preincremento
+preinstalados
 pretzels
 priori
 probándola
@@ -315,6 +319,7 @@ repetibles
 repl
 resaltadores
 reuso
+reutilizable
 ricky
 rune
 s
@@ -325,6 +330,7 @@ scripts
 setup
 shell
 shells
+src
 sintácticamente
 slicemapsslicesmapsstructsslicesmapsslices
 slicemapsslicesmapsstructsslicesmapsslicesTypeError

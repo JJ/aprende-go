@@ -16,7 +16,7 @@ empezar a crear aplicaciones sobre la marcha.
 6. HTML
 7. [Guardando en la memoria](txt/07.guardando-en-la-memoria.md)
 8. Línea de órdenes y todo lo que necesitas saber sobre ella
-9. Lo que el lenguaje no sabe:  bibliotecas
+9. [Lo que el lenguaje no sabe:  bibliotecas](txt/09.lo-que-el-lenguaje-no-sabe-bibliotecas.md)
 11. Trabajo en equipo con git y otras herramientas
 12. Algunas bibliotecas interesantes
 13. Editando programas como un profesional

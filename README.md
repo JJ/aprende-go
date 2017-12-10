@@ -11,28 +11,17 @@ empezar a crear aplicaciones sobre la marcha.
 1. [Por qué Go](txt/01.por-que-go.md)
 2. [Instala Go y comienza a trabajar](txt/02.instala-go-y-comienza-a-trabajar.md)
 3. [Tipos de datos básicos y cómo trabajar con ellos](txt/03.datos.md)
-4. [Documentación con Markdown](txt/04.documentacion-con-markdown.md)
-5. [Lógica](txt/05.logica.md)
+4. [Lógica](txt/04.logica.md)
+5. [Guardando en la memoria](txt/05.guardando-en-la-memoria.md)
+6. [Lo que el lenguaje no sabe:  bibliotecas](txt/06.lo-que-el-lenguaje-no-sabe-bibliotecas.md)
+7. [Cuando el ordenador no te entiende](txt/07.cuando-el-ordenador-no-te-entiende.md)
+8. [Documentación con Godoc](txt/08.documentacion-con-godoc.md)
+9. [Documentación con Markdown](txt/09.documentacion-con-markdown.md)
+12. Compilando programas en Go
+13. Cuenta lo que pretendes
+14. Concurrencia
+15. Editando programas como un profesional: de editores y línea de órdenes
+16. Persistencia: de bases de datos y otras cosas que tememos
+17. Trabajo en equipo con git y otras herramientas
 6. HTML
-7. [Guardando en la memoria](txt/07.guardando-en-la-memoria.md)
-8. Línea de órdenes y todo lo que necesitas saber sobre ella
-9. [Lo que el lenguaje no sabe:  bibliotecas](txt/09.lo-que-el-lenguaje-no-sabe-bibliotecas.md)
-11. Trabajo en equipo con git y otras herramientas
-12. Algunas bibliotecas interesantes
-13. Editando programas como un profesional
-14. Creando programas en Go
-10. [Documentación con Godoc](txt/10.documentacion-con-godoc.md)
-15. Compilando programas en Go
-16. Cuando el ordenador no te entiende
-17. Cuenta lo que pretendes.
-18. La nube y todo lo que necesitas sber sobre ella
-19. Despliega y ejecuta programas en Go
-20. Concurrencia
-21. Cuando más rápido es más lento
-22. El infinito mundo de los datos
-23. Cómo almacenar y recuperar datos.
-24. Promesas, promesas
-25. Contenedores
-26. Microservicios
-27. Trabajando en las nubes.
-28. ¿Cuanto de rápido es más rápido?
+17. Trabajando en las nubes: despliegues, contenedores y microservicios

@@ -13,14 +13,14 @@ empezar a crear aplicaciones sobre la marcha.
 3. [Tipos de datos básicos y cómo trabajar con ellos](txt/03.datos.md)
 4. [Lógica](txt/04.logica.md)
 5. [Guardando en la memoria](txt/05.guardando-en-la-memoria.md)
-6. [Lo que el lenguaje no sabe:  bibliotecas](txt/06.lo-que-el-lenguaje-no-sabe-bibliotecas.md)
+6. [Lo que el lenguaje no sabe: bibliotecas](txt/06.lo-que-el-lenguaje-no-sabe-bibliotecas.md)
 7. [Cuando el ordenador no te entiende](txt/07.cuando-el-ordenador-no-te-entiende.md)
-8. [Documentación con Godoc](txt/08.documentacion-con-godoc.md)
+15. Editando programas como un profesional: de editores y línea de órdenes
 9. [Documentación con Markdown](txt/09.documentacion-con-markdown.md)
 12. Compilando programas en Go
+8. [Documentación con Godoc](txt/08.documentacion-con-godoc.md)
 13. Cuenta lo que pretendes
 14. Concurrencia
-15. Editando programas como un profesional: de editores y línea de órdenes
 16. Persistencia: de bases de datos y otras cosas que tememos
 17. Trabajo en equipo con git y otras herramientas
 6. HTML

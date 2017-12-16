@@ -17,11 +17,11 @@ empezar a crear aplicaciones sobre la marcha.
 5. [Guardando en la memoria](txt/05.guardando-en-la-memoria.md)
 3. Trabajando con git y GitHub
 4. Trabajando con arrays
+15. Editando programas como un profesional: de editores
 12. Compilando programas en Go
 5. Funciones
 6. [Lo que el lenguaje no sabe: bibliotecas](txt/06.lo-que-el-lenguaje-no-sabe-bibliotecas.md)
 7. [Cuando el ordenador no te entiende](txt/07.cuando-el-ordenador-no-te-entiende.md)
-15. Editando programas como un profesional: de editores y línea de órdenes
 9. [Documentación con Markdown](txt/09.documentacion-con-markdown.md)
 8. [Documentación con Godoc](txt/08.documentacion-con-godoc.md)
 13. Cuenta lo que pretendes

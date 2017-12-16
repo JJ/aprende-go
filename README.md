@@ -14,6 +14,8 @@ empezar a crear aplicaciones sobre la marcha.
 4. [Lógica](txt/04.logica.md)
 5. [Guardando en la memoria](txt/05.guardando-en-la-memoria.md)
 3. Trabajando con git y GitHub
+4. Trabajando con arrays
+5. Funciones
 6. [Lo que el lenguaje no sabe: bibliotecas](txt/06.lo-que-el-lenguaje-no-sabe-bibliotecas.md)
 7. [Cuando el ordenador no te entiende](txt/07.cuando-el-ordenador-no-te-entiende.md)
 15. Editando programas como un profesional: de editores y línea de órdenes

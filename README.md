@@ -11,7 +11,8 @@ empezar a crear aplicaciones sobre la marcha.
 1. [Por qué Go](txt/01.por-que-go.md)
 2. [Instala Go y comienza a trabajar](txt/02.instala-go-y-comienza-a-trabajar.md)
 3. [Tipos de datos básicos y cómo trabajar con ellos](txt/03.datos.md)
-4. [Lógica](txt/04.logica.md)
+4. [Lógica](txt/04.logica.md), unos tipos de datos para decidir lo que
+   es verdad y lo que es mentira.
 5. [Guardando en la memoria](txt/05.guardando-en-la-memoria.md)
 3. Trabajando con git y GitHub
 4. Trabajando con arrays

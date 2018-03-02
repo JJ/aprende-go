@@ -2,14 +2,14 @@
 
 [![Build Status](https://travis-ci.org/JJ/aprende-go.svg?branch=master)](https://travis-ci.org/JJ/aprende-go)
 
-Un libro para aprender Go de forma moderna, como parte de un
+Un libro para aprender a programar en Go de forma moderna, como parte de un
 ecosistema y con todas los lenguajes adicionales necesarios para
 empezar a crear aplicaciones sobre la marcha.
 
 ## Índice tentativo
 
 1. [Por qué Go](txt/01.por-que-go.md)
-3. La línea de órdenes: cómo trabajar con ella
+3. La línea de órdenes: cómo trabajar con ella.
 2. [Instala Go y comienza a trabajar](txt/02.instala-go-y-comienza-a-trabajar.md)
 3. [Tipos de datos básicos y cómo trabajar con ellos](txt/03.datos.md)
 4. [Lógica](txt/04.logica.md), unos tipos de datos para decidir lo que

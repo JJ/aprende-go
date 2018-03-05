@@ -1,4 +1,4 @@
-# aprende-go
+# Aprende Go
 
 [![Build Status](https://travis-ci.org/JJ/aprende-go.svg?branch=master)](https://travis-ci.org/JJ/aprende-go)
 
@@ -9,16 +9,16 @@ empezar a crear aplicaciones sobre la marcha.
 ## Índice tentativo
 
 1. [Por qué Go](txt/01.por-que-go.md)
-3. La línea de órdenes: cómo trabajar con ella.
+3. [La línea de órdenes: cómo trabajar con ella](txt/011.la-línea-de-órdenes.md).
 2. [Instala Go y comienza a trabajar](txt/02.instala-go-y-comienza-a-trabajar.md)
 3. [Tipos de datos básicos y cómo trabajar con ellos](txt/03.datos.md)
 4. [Lógica](txt/04.logica.md), unos tipos de datos para decidir lo que
    es verdad y lo que es mentira.
-5. [Guardando en la memoria](txt/05.guardando-en-la-memoria.md)
-3. Trabajando con git y GitHub
-4. Trabajando con arrays
-15. Editando programas como un profesional: de editores
-12. Compilando programas en Go
+5. [Guardando en la memoria](txt/05.guardando-en-la-memoria.md).
+3. Trabajando con git y GitHub.
+4. Organizando la información:  *arrays* y otraos contenedores de datos complejos.
+15. Editando programas como un profesional: sobre editores.
+12. Compilando programas en Go.
 5. Funciones
 6. [Lo que el lenguaje no sabe: bibliotecas](txt/06.lo-que-el-lenguaje-no-sabe-bibliotecas.md)
 7. [Cuando el ordenador no te entiende](txt/07.cuando-el-ordenador-no-te-entiende.md)

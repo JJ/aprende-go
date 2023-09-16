@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/JJ/aprende-go.svg?branch=master)](https://travis-ci.org/JJ/aprende-go)
 
 Un libro para aprender a programar en Go de forma moderna, como parte de un
-ecosistema y con todas los lenguajes adicionales necesarios para
+ecosistema y con todos los lenguajes adicionales necesarios para
 empezar a crear aplicaciones sobre la marcha.
 
 ## Índice tentativo
@@ -16,7 +16,7 @@ empezar a crear aplicaciones sobre la marcha.
    es verdad y lo que es mentira.
 5. [Guardando en la memoria](txt/05.guardando-en-la-memoria.md).
 3. Trabajando con git y GitHub.
-4. Organizando la información:  *arrays* y otraos contenedores de datos complejos.
+4. Organizando la información: *arrays* y otros contenedores de datos complejos.
 15. Editando programas como un profesional: sobre editores.
 12. Compilando programas en Go.
 5. Funciones
